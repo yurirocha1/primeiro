@@ -1,7 +1,7 @@
 package Cursojava.executavel;
 
 public class primerioclassjava {
-	/*Main e um metodo auto execultavel em java*/
+	/*Main e um metodo auto execultavel em java1*/
 	
 		public static void main(String[] args) {
 			
