@@ -8,7 +8,9 @@ public class pessoa {
 
 	public String getNome() {
 		return nome;
-	}
+
+}
+	
 		this.nome = nome;
 	}
 
@@ -21,5 +23,17 @@ public class pessoa {
 	}
 	
 	
-	
+	private int idade;
+
+	public int getIdade() {
+		return idade;
+	}
+
+	public void setIdade(int idade) {
+		this.idade = idade;
+	}
+
+	public void setNome(String nome) {
+		this.nome = nome;
+	}
 }
