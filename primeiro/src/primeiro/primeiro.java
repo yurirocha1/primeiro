@@ -11,7 +11,11 @@ public class primeiro {
 		double mediaFinal = (nota1 + nota2 + nota3 ) /4;
 		
 		System.out.println(" Media das notas = " + mediaFinal);
+		
+		/*Char representa uma letra*/
+		char pessoaFemenino =  'F';
 	}
+	
 	
 }
 
